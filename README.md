@@ -18,7 +18,7 @@ This project uses an SQLite database to store user data.
 ## Setup Instructions
 To start development server use
 `php artisan serve` 
-It runs project on [Visit http://localhost:8000](http://localhost:8000).
+It runs project on [http://localhost:8000](http://localhost:8000).
 ## Usage
 - Register a new user by going to /register.
 - Log in as a registered user at /login.
